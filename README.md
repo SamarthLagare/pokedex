@@ -2,7 +2,7 @@
 
 A fully interactive, single-page web application that brings the world of Pokémon to life with animations, sound effects, and a retro pixel aesthetic inspired by the classic games. This isn’t a static data display—it’s an experience. Search for any Pokémon and watch the Pokédex open up with detailed information, animations, and sound interactions.
 
-✨ **Live Demo** ➡ (https://your-samarthlagare.github.io/pokedex/)  
+✨ **Live Demo** ➡ (https://samarthlagare.github.io/pokedex/)  
 
 
 ---
